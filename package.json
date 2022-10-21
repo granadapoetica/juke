@@ -1,0 +1,21 @@
+{
+  "name": "jukebox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "input-event": "^1.2.6",
+    "inputevent": "0.0.3",
+    "jsonpath": "^1.1.1",
+    "nedb": "^1.8.0",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
